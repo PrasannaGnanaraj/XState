@@ -1,0 +1,12 @@
+{
+  "name": "state-machine",
+  "version": "1.0.0",
+  "description": "examples xstate",
+  "main": "index.js",
+  "author": "Prasanna",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "xstate": "^4.9.1"
+  }
+}
